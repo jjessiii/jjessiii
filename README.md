@@ -1,5 +1,10 @@
-# Hiya!!
+<h1 align="center">Hiya!!</h1>
+
 I'm **Jessica (she/her)**, a :transgender_flag: developer from... Earth! I mainly go by "jessii" online.
+
+<p align="center">
+ <a href="https://discord.com/users/1489580143486832740"><img src="https://lanyard.cnrad.dev/api/1489580143486832740?hideActivity=true&showDisplayName=true" /></a>
+</p>
 
 
 ### Hobbies
