@@ -36,4 +36,4 @@ And I use these IDEs/editors:
 - OS: Win**slop** 11
 
 ### contact me
-I don't have much, but you can contact me mainly on discord at `@jess.ii_ `!
+I don't have much, but you can contact me mainly on discord at `@ip.v8 `!
